@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: "prompt", sans-serif;
+    text-align: "center";
+    background-color: rgb(255, 191, 0);
+    height: 50vh;
+    
+}
+.lottie{
+    background-color: rgb(92,211,53);
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
